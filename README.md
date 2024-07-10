@@ -11,44 +11,9 @@ Este es solo un proyecto de demostración, no está ni de cerca a la altura del 
 
 ## Estructura del Proyecto
 
-src/
-├── public/
-├── assemblies/
-│ ├── Auth/
-│ │ ├── Login.jsx
-│ │ └── Register.jsx
-│ ├── Blog/
-│ │ ├── BlogDetail.jsx
-│ │ ├── BlogItem.jsx
-│ │ ├── BlogList.jsx
-│ │ └── CreateBlog.jsx
-│ ├── Dashboard/
-│ │ ├── BlogForm.jsx
-│ │ ├── BlogItem.jsx
-│ │ └── UserBlogList.jsx
-│ ├── Navbar.jsx
-│ └── ThemeSwitcher.jsx
-├── Context/
-│ ├── AuthContext.jsx
-│ ├── FirebaseContext.jsx
-│ └── ThemeContext.jsx
-├── pages/
-│ ├── Dashboard.jsx
-│ ├── ForgotPasswordPage.jsx
-│ ├── Home.jsx
-│ ├── LoginPage.jsx
-│ └── RegisterPage.jsx
-├── App.css
-├── App.jsx
-├── firebaseConfig.js
-├── index.css
-├── main.jsx
-├── package.json
-├── tailwind.config.js
-├── postcss.config.js
-├── .gitignore
-├── index.html
-└── README.md
+```md
+
+```
 
 ## Configuración Inicial
 
